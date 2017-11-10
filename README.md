@@ -1,1 +1,6 @@
 # plaid-app
+
+to run: 
+
+1) npm install
+2) APP_PORT=8000 PLAID_CLIENT_ID=5a060837bdc6a46838fe5db7 PLAID_SECRET=74aa1a99476f0788e17bc13bc4a04a PLAID_PUBLIC_KEY=45eed495c5c543a50f620af566118e PLAID_ENV=sandbox node index.js
